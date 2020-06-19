@@ -1,0 +1,24 @@
+{
+  "name": "rick_and_morty_picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CurtisMorice/rick_and_morty_picker.git"
+  },
+  "keywords": [
+    "Rick",
+    "and",
+    "Morty"
+  ],
+  "author": "Curtos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CurtisMorice/rick_and_morty_picker/issues"
+  },
+  "homepage": "https://github.com/CurtisMorice/rick_and_morty_picker#readme"
+}
